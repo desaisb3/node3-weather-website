@@ -13,6 +13,7 @@ const forecast = ((latitude, longitude, callback)=>{
         else{
             callback(undefined, 
                 body.daily.data[0].summary + ' The Temperature is ' + body.currently.temperature
+                + " Temperature High : " + body.daily.data[0].temperatureHigh + " Temperature Low: " + body.daily.data[0].temperatureLow
             )
         }
 
