@@ -6,5 +6,5 @@ TO RUN THIS LOCALLY,
   -  run `npm run`. And it should work well.
 
 
-TO CHECK THE LIVE VERSION, go to
+  TO CHECK THE LIVE VERSION, go to
 https://desaisb3-weather-application.herokuapp.com/
