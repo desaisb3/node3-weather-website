@@ -1,3 +1,3 @@
 Weather Application
 
-To check out this application, go to https://desaisb3-weather-application.herokuapp.com/
+To check out this application on a live server, go to https://desaisb3-weather-application.herokuapp.com/
